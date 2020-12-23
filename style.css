@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-color: #dbdbdb;
+  text-align: center;
 }
 
 .grid {
@@ -24,4 +25,8 @@ canvas {
   height: 100vh;
   z-index: -1;
   pointer-events: none;
+}
+
+.mute {
+  margin-top: 1rem;
 }
